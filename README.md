@@ -1,2 +1,2 @@
 # 2nd
-for learning purpose, this repository has been opened
+for learning purpose, this repository has been created. 
